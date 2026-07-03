@@ -1,15 +1,15 @@
 # Maven-Fuzzy-Factory-Power-BI-Dashboard
 This project analyzes the Maven Fuzzy Factory dataset from Kaggle and turns it into a business dashboard for understanding operations, financial health, and website performance.
 
-Setup
+## Setup
 Loaded 6 tables into Azure SQL Database using Python and SQLAlchemy.
 
 Connected Power BI to Azure SQL with DirectQuery.
 
 Used Claude through Power BI Modeling MCP Server to speed up modeling and measure creation.
 
-Dashboard pages
-Overview
+## Dashboard pages
+### Overview
 Total Revenue
 
 Conversion Rate
@@ -20,7 +20,7 @@ Average Order Value
 
 Revenue trends by product and channel
 
-Finance
+### Finance
 Refund Rate
 
 Total Cost of Goods
@@ -33,7 +33,7 @@ Customer retention
 
 Gross profit by channel
 
-Traffic
+### Traffic
 Bounce Rate
 
 Pages per Session
@@ -42,7 +42,7 @@ Conversion Funnel
 
 Landing page performance
 
-Key findings
+## Key findings
 Web sessions dropped sharply after Q4 December 2014.
 
 Lander_4 had the lowest bounce rate.
