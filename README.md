@@ -1,5 +1,5 @@
 # Maven-Fuzzy-Factory-Power-BI-Dashboard
-This project analyzes the Maven Fuzzy Factory dataset from Kaggle and turns it into a business dashboard for understanding operations, financial health, and website performance.
+This project analyzes the Maven Fuzzy Factory dataset from Kaggle and turns it into a business intelligence dashboard designed to help a company understand its operations, financial performance, and website behavior.
 
 ## Setup
 Loaded 6 tables into Azure SQL Database using Python and SQLAlchemy.
